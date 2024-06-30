@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/nxelia99/nxelia99/blob/output/github-contribution-grid-snake2.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/nxelia99/nxelia99/output/github-contribution-grid-snake.svg" />
 
 ###
