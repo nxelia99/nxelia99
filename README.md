@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/Nxelia99/Nxelia99/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/nxelia99/nxelia99/blob/output/github-contribution-grid-snake2.svg)
 
 ###
