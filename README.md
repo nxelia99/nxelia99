@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./header.jpg"  />
+  <img height="200" widht="500" src="./header.jpg"  />
 </div>
 
 ###
