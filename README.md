@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">I am a graduate Cross-Platform Developer specializing in Full Stack Development, with a primary focus on Back End Development and Data Engineering. I am proficient in adapting to various technologies quickly, ensuring flexibility in my work and the projects needs.<br><br>Skills & Expertise:<br><br>- Programming Languages: Python and Java (primary languages) and Javascript.<br><br>- Specializations: FullStack Development. Back End Development, Data Engineering.<br><br>- Flexibility: Adaptable to new technologies and tools as needed<br><br><br>About Me:<br>With a strong foundation in both front end and back end technologies, I have a passion for creating efficient and scalable solutions. My expertise lies in developing robust back end systems and managing complex data workflows.
+<p align="left">I am a graduate Cross-Platform Developer specializing in Full Stack Development, with a primary focus on Back End Development and Data Engineering. I am proficient in adapting to various technologies quickly, ensuring flexibility in my work and the projects needs.<br><br>Skills & Expertise:<br><br>- Programming Languages: Python, Java (primary languages) and Javascript.<br><br>- Specializations: FullStack Development. Back End Development, Data Engineering.<br><br>- Flexibility: Adaptable to new technologies and tools as needed<br><br><br>About Me:<br>With a strong foundation in both front end and back end technologies, I have a passion for creating efficient and scalable solutions. My expertise lies in developing robust back end systems and managing complex data workflows.
 </p>
 
 ###
