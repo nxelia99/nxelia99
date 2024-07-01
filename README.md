@@ -75,7 +75,7 @@
 
 ###
 
-<img align="right" height="200" src="./photo.jpg"  />
+<img align="right" height="200" src="./photo.JPG"  />
 
 ###
 
